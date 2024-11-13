@@ -1,5 +1,6 @@
 ﻿using System.Runtime.InteropServices.Marshalling;
 using DesignPatternStudies.Memento;
+using DesignPatternStudies.State;
 
 namespace DesignPatternStudies;
 
